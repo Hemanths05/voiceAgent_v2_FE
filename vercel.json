@@ -1,7 +1,1 @@
-{
-  "buildCommand": "npm run build",
-  "installCommand": "npm install",
-  "outputDirectory": ".next",
-  "env": {},
-  "regions": ["iad1"]
-}
+{}
